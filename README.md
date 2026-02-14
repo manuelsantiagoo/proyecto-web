@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Plataforma Web para Optimización de Planes de Estudio
 
 Proyecto académico orientado al diseño de una plataforma web para instituciones educativas, cuyo objetivo es mejorar los planes de estudio a partir del análisis de los apuntes de los estudiantes.
@@ -22,4 +22,21 @@ La separación entre cliente y servidor es fundamental en el desarrollo de aplic
 
 Esta división mejora la seguridad, al evitar que procesos críticos se ejecuten en el dispositivo del usuario, facilita el mantenimiento del sistema, ya que cada parte puede actualizarse de forma independiente, y permite una mayor escalabilidad, haciendo posible que la aplicación soporte un mayor número de usuarios y funcionalidades sin perder rendimiento.
 
-=======
+## Cómo clonar y visualizar el proyecto localmente
+
+1. Abrir la terminal o consola de comandos.
+
+2. Clonar el repositorio usando el siguiente comando:
+
+   git clone https://github.com/manuelsantiagoo/proyecto-web.git
+
+3. Entrar a la carpeta del proyecto:
+
+   cd proyecto-web
+
+4. Abrir el archivo index.html en el navegador:
+
+   - Doble clic sobre index.html
+   - O abrirlo desde Visual Studio Code con la extensión Live Server.
+
+De esta manera se puede visualizar la página web de forma local sin necesidad de servidor.
