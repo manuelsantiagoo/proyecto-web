@@ -23,6 +23,3 @@ La separación entre cliente y servidor es fundamental en el desarrollo de aplic
 Esta división mejora la seguridad, al evitar que procesos críticos se ejecuten en el dispositivo del usuario, facilita el mantenimiento del sistema, ya que cada parte puede actualizarse de forma independiente, y permite una mayor escalabilidad, haciendo posible que la aplicación soporte un mayor número de usuarios y funcionalidades sin perder rendimiento.
 
 =======
-# proyecto-web
-Plataforma web académica orientada al análisis de apuntes estudiantiles para la mejora continua de los planes de estudio.
->>>>>>> c11ed092fb98b36b401e839abdf6b6c95f86627f
